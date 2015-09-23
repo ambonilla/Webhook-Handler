@@ -21,8 +21,8 @@ $ python start.py
 
 It will run the REST server and the verifier as background processes.
 
-[Daemon]https://pypi.python.org/pypi/python-daemon/
-[Web.py]http://webpy.org/
-[mysql.connector]https://dev.mysql.com/downloads/connector/python/2.0.html
+[Daemon]:https://pypi.python.org/pypi/python-daemon/
+[Web.py]:http://webpy.org/
+[mysql.connector]:https://dev.mysql.com/downloads/connector/python/2.0.html
 
 
